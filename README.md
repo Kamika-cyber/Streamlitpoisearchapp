@@ -1,6 +1,3 @@
-Here you go — clean, copy-ready README without emojis:
-
-```markdown
 # AstanaWalk RAG — Streamlit POI Search App
 
 AstanaWalk RAG is an AI-powered assistant that helps users find interesting places in Astana based on their location, preferences, and intent.
