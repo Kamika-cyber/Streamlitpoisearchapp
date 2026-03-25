@@ -156,4 +156,3 @@ GitHub Repo: https://github.com/Kamika-cyber/Streamlitpoisearchapp
 AstanaWalk RAG demonstrates how AI, open data, and geolocation can be combined to create useful and personalized smart city services.
 
 It is a practical example of applying RAG in real-world applications.
-```
