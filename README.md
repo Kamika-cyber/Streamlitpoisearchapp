@@ -142,15 +142,6 @@ GitHub Repo: https://github.com/Kamika-cyber/Streamlitpoisearchapp
 
 ---
 
-## Team
-
-- Kamila Issabay — Data Curator  
-- Rakhima Yesmagambetova — ML / RAG Developer  
-- Nuray Shokankyzy — QA and UX  
-- Umit Baitleu — Presentation Lead  
-
----
-
 ## Summary
 
 AstanaWalk RAG demonstrates how AI, open data, and geolocation can be combined to create useful and personalized smart city services.
