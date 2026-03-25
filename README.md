@@ -107,12 +107,12 @@ streamlit run app.py
 
 ---
 
-## Demo Scenarios
+## Demo Use Cases
 
-- Near Mega Silk Way -> find cafes  
-- With kids -> parks and family places  
-- Romantic mood -> restaurants with views  
-- Work -> cafes with Wi-Fi  
+- Find cafes near Mega Silk Way  
+- Discover parks for walking with children  
+- Get restaurant suggestions for a romantic evening  
+- Find cafes suitable for work and study  
 
 ---
 
